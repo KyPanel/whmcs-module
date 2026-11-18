@@ -1,0 +1,35 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-servers",
+  "name": "kypanel",
+  "license": "MIT",
+  "category": "webhosting",
+  "description": {
+    "name": "KyPanel",
+    "tagline": "Sell and manage hosting accounts on KyPanel servers.",
+    "long": "Creates, suspends, reactivates and removes KyPanel hosting accounts as orders, invoices and cancellations happen in WHMCS. Customers open their control panel from the client area with one click, and disk and bandwidth usage is brought back to WHMCS every day.",
+    "features": [
+      "Automatic account creation, suspension, reactivation and termination",
+      "Password changes and package upgrades or downgrades",
+      "Single sign-on to the control panel from the client and admin areas",
+      "Disk and bandwidth usage updates",
+      "Server sync to import existing accounts",
+      "Reseller accounts",
+      "English and Portuguese (Brazil)"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/kypanel.com\/",
+    "support_url": "https:\/\/my.kypanel.com\/tickets\/new",
+    "docs_url": "https:\/\/docs.kypanel.com\/"
+  },
+  "authors": [
+    {
+      "name": "KyPanel",
+      "homepage": "https:\/\/kypanel.com\/"
+    }
+  ]
+}
